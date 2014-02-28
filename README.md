@@ -28,5 +28,5 @@ if __name__ == '__main__':
 
 ## Installation:
 ```bash
-$ python3 setup.py install
+$ python setup.py install
 ```
