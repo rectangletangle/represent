@@ -1,6 +1,6 @@
 represent
 ======
-This library makes generating Pythonic string representations of objects as simple as possible.
+This library provides a simple way to generate Pythonic string representations of objects.
 
 ## Usage:
 ```python
@@ -24,7 +24,7 @@ if __name__ == '__main__':
 ```
 
 ## Dependencies:
-* Python 2.7 or newer
+* Python 2.7 - 3.x
 
 ## Installation:
 ```bash
